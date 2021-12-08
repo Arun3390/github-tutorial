@@ -10,3 +10,6 @@ This is example to learn more about git.
 ## Deployment
 
 As stated above only for learning purpose
+
+
+## simple web project
